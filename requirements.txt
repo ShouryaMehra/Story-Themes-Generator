@@ -1,0 +1,11 @@
+stop_words
+pandas
+numpy
+nltk
+gensim
+spacy==2.2.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.2.0/en_core_web_md-2.2.0.tar.gz#egg=en_core_web_md
+Flask==1.1.2
+google-cloud-storage
+google-cloud-logging
+gcsfs
